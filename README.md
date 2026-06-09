@@ -7,7 +7,6 @@
 
 <br/>
 
-<!-- Badges -->
 ![Software QA Engineer](https://img.shields.io/badge/Software%20QA%20Engineer-00C8FF?style=for-the-badge&logo=testcafe&logoColor=white)
 ![AI QA Analyst](https://img.shields.io/badge/AI%20QA%20Analyst-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![5+ Years Experience](https://img.shields.io/badge/5%2B%20Years%20Experience-success?style=for-the-badge&logo=clockify&logoColor=white)
@@ -124,29 +123,110 @@ I'm passionate about quality — from writing meticulous test cases to exploring
 
 ## 🌱 QA in Real Life
 
-> *`SELECT happiness FROM life WHERE you = present;`*
+<div align="center">
 
-> *`DELETE FROM worries WHERE date = today;`*
+<table>
+  <tr>
+    <td align="center" width="280">
+      <h4>♠️ A♠</h4>
+      <br/>
+      <code>SELECT happiness FROM life<br/>WHERE you = present;</code>
+      <br/><br/>
+      <sub>🃏 <em>The Mindfulness Query</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♥️ A♥</h4>
+      <br/>
+      <code>DELETE FROM worries<br/>WHERE date = today;</code>
+      <br/><br/>
+      <sub>🃏 <em>The Daily Cleanup</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♦️ A♦</h4>
+      <br/>
+      <em>My heart runs on coffee<br/>and SQL queries.</em> ☕
+      <br/><br/>
+      <sub>🃏 <em>The Engineer's Fuel</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="280">
+      <h4>♣️ A♣</h4>
+      <br/>
+      <code>SELECT * FROM bugs<br/>WHERE fixed = false;</code>
+      <br/>
+      <em>— my daily morning routine.</em>
+      <br/><br/>
+      <sub>🃏 <em>The Morning Standup</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♠️ K♠</h4>
+      <br/>
+      <code>INSERT INTO day (mood)<br/>VALUES ('ready to find bugs');</code>
+      <br/><br/>
+      <sub>🃏 <em>The Monday Mindset</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♥️ K♥</h4>
+      <br/>
+      <em>Life has no <code>ROLLBACK</code>.<br/>Test everything before you commit.</em>
+      <br/><br/>
+      <sub>🃏 <em>The Life Principle</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="280">
+      <h4>♦️ K♦</h4>
+      <br/>
+      <code>DROP TABLE stress;</code>
+      <br/>
+      <em>— if only it were that easy.</em>
+      <br/><br/>
+      <sub>🃏 <em>The Wishful Query</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♣️ K♣</h4>
+      <br/>
+      <em>My code is like my coffee —<br/>strong and full of<br/>unexpected behavior.</em>
+      <br/><br/>
+      <sub>🃏 <em>The Debugging Truth</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♠️ Q♠</h4>
+      <br/>
+      <em>You are not a bug.<br/>Your errors are features<br/>waiting to compile.</em> ✨
+      <br/><br/>
+      <sub>🃏 <em>The Pep Talk</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="280">
+      <h4>♥️ Q♥</h4>
+      <br/>
+      <code>if (happy) { }</code>
+      <br/>
+      <em>— That's my favorite logic.</em>
+      <br/><br/>
+      <sub>🃏 <em>The Purest Condition</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♦️ Q♦</h4>
+      <br/>
+      <em>We didn't break up.<br/>Our connection timed out.</em> 🔌
+      <br/><br/>
+      <sub>🃏 <em>The 408 Heartbreak</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♣️ Q♣</h4>
+      <br/>
+      <em>You are not a variable —<br/>nobody can replace<br/>your value.</em> 💙
+      <br/><br/>
+      <sub>🃏 <em>The Constant Truth</em></sub>
+    </td>
+  </tr>
+</table>
 
-> *My heart runs on coffee and SQL queries.* ☕
-
-> *`SELECT * FROM bugs WHERE fixed = false;` — my daily morning routine.*
-
-> *`INSERT INTO day (mood) VALUES ('ready to find bugs');`*
-
-> *Life has no `ROLLBACK`. Test everything before you commit.*
-
-> *`DROP TABLE stress;` — if only it were that easy.*
-
-> *My code is like my coffee — strong and full of unexpected behavior.*
-
-> *You are not a bug. Your errors are features waiting to compile.* ✨
-
-> *`if (happy) { }` — That's my favorite logic.*
-
-> *We didn't break up. Our connection timed out.* 🔌
-
-> *You are not a variable — nobody can replace your value.* 💙
+</div>
 
 ---
 
