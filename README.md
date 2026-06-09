@@ -7,6 +7,7 @@
 
 <br/>
 
+<!-- Badges -->
 ![Software QA Engineer](https://img.shields.io/badge/Software%20QA%20Engineer-00C8FF?style=for-the-badge&logo=testcafe&logoColor=white)
 ![AI QA Analyst](https://img.shields.io/badge/AI%20QA%20Analyst-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![5+ Years Experience](https://img.shields.io/badge/5%2B%20Years%20Experience-success?style=for-the-badge&logo=clockify&logoColor=white)
@@ -96,7 +97,6 @@ I'm passionate about quality — from writing meticulous test cases to exploring
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aysuismayil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysuismayil&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -119,6 +119,45 @@ I'm passionate about quality — from writing meticulous test cases to exploring
 </picture>
 
 </div>
+
+---
+
+## 🌱 QA in Real Life
+
+> *`SELECT happiness FROM life WHERE you = present;`*
+
+> *`DELETE FROM worries WHERE date = today;`*
+
+> *My heart runs on coffee and SQL queries.* ☕
+
+> *`SELECT * FROM bugs WHERE fixed = false;` — my daily morning routine.*
+
+> *`INSERT INTO day (mood) VALUES ('ready to find bugs');`*
+
+> *Life has no `ROLLBACK`. Test everything before you commit.*
+
+> *`DROP TABLE stress;` — if only it were that easy.*
+
+> *My code is like my coffee — strong and full of unexpected behavior.*
+
+> *You are not a bug. Your errors are features waiting to compile.* ✨
+
+> *`if (happy) { }` — That's my favorite logic.*
+
+> *We didn't break up. Our connection timed out.* 🔌
+
+> *You are not a variable — nobody can replace your value.* 💙
+
+---
+
+## 🗣️ Languages
+
+| Language | Flag | Level |
+|----------|------|-------|
+| Azerbaijani | 🇦🇿 | Native |
+| Russian | 🇷🇺 | Native |
+| Turkish | 🇹🇷 | Native / Bilingual |
+| English | 🇺🇸 | Full Professional |
 
 ---
 
