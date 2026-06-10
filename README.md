@@ -1,125 +1,81 @@
-<div align="center">
+# Hi, I'm Aysu Ismayilzada! 👋
 
-<!-- Typing SVG Header -->
-<a href="https://github.com/aysuismayil">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aysu+Ismayilzada+%F0%9F%91%8B;Software+QA+Engineer+%7C+AI+QA+Analyst;%22I+find+bugs+before+your+users+do%22+%F0%9F%90%9E" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Software QA Engineer](https://img.shields.io/badge/Software%20QA%20Engineer-00C8FF?style=for-the-badge&logo=testcafe&logoColor=white)
-![AI QA Analyst](https://img.shields.io/badge/AI%20QA%20Analyst-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![5+ Years Experience](https://img.shields.io/badge/5%2B%20Years%20Experience-success?style=for-the-badge&logo=clockify&logoColor=white)
-![Remote](https://img.shields.io/badge/Remote-Montvale%2C%20NJ%2C%20USA-blue?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-I'm a **Software QA Engineer & AI QA Analyst** with **5+ years of experience** in manual testing of **Web** and **Mobile (iOS/Android)** applications, currently working remotely at **Techno Pointer**.
-
-I'm passionate about quality — from writing meticulous test cases to exploring how AI tools are reshaping the QA landscape. My goal is always the same: **ship software that works, every time.**
+I'm a Software QA Engineer & AI QA Analyst with 5+ years of experience in Manual Testing of Web and Mobile (iOS/Android) applications. I work at the intersection of quality, AI, and accessibility — making sure software works for every user, every time.
 
 > 🐞 *"I find bugs before your users do."*
 
-- 📍 **Location:** Montvale, NJ, USA
-- 🏢 **Company:** Techno Pointer *(Remote)*
-- 🧪 **Specialties:** Manual QA · Web & Mobile · AI/GenAI Testing · Accessibility (WCAG/508)
-- 📬 **Email:** aysu.ismayil86@gmail.com
+![Aysu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aysuismayil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
----
+## 🚀 About Me
 
-## 🧪 Testing Types
+- 🧪 5+ years Manual QA — Web & Mobile (iOS/Android)
+- 🔌 API Testing with Postman & Swagger
+- ♿ Accessibility Testing — WCAG 2.x, 508, VoiceOver, TalkBack, NVDA
+- 🗄️ Database validation with SQL queries
+- ⚙️ CI/CD experience with Jenkins & GitHub Actions
+- 🤖 AI & GenAI QA testing — Claude, OpenAI, Gemini
+- 📌 Functional, Regression, Smoke, Sanity, E2E, UAT Testing
+- 📌 Mobile Testing with Android Studio, ADB & Xcode
+- 📌 Debugging with Chrome DevTools & Charles Proxy
+- 🌱 Currently exploring: AI tools for QA workflows & automation
 
-![Manual](https://img.shields.io/badge/Manual-0078D4?style=flat-square&logoColor=white)
-![Functional](https://img.shields.io/badge/Functional-2CA5E0?style=flat-square&logoColor=white)
-![Regression](https://img.shields.io/badge/Regression-5C2D91?style=flat-square&logoColor=white)
-![Smoke](https://img.shields.io/badge/Smoke-FF6B35?style=flat-square&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F7B731?style=flat-square&logoColor=white)
-![E2E](https://img.shields.io/badge/End--to--End-00B894?style=flat-square&logoColor=white)
-![UAT](https://img.shields.io/badge/UAT-6C757D?style=flat-square&logoColor=white)
-![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Accessibility](https://img.shields.io/badge/Accessibility%20WCAG%2F508-0052CC?style=flat-square&logoColor=white)
-![Localization](https://img.shields.io/badge/Localization-20B2AA?style=flat-square&logoColor=white)
-![AI/GenAI Testing](https://img.shields.io/badge/AI%2FGenAI%20Testing-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+## Tech Stack
 
----
-
-## 🛠️ Tools & Tech Stack
-
-### 📋 Test Management & Planning
+### Testing & TMS
 | JIRA | TestRail | Zephyr | Confluence | Figma |
-|------|----------|--------|------------|-------|
-| <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> | <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white"/> | <img src="https://img.shields.io/badge/Zephyr-003366?style=for-the-badge&logo=zephyr&logoColor=white"/> | <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/> | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> |
+|----------|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg' width='65' height='65'> |
 
-### 🔌 API Testing
+### API Testing
 | Postman | Swagger | REST API | SOAPUI |
-|---------|---------|----------|--------|
-| <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> | <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/> | <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> | <img src="https://img.shields.io/badge/SoapUI-FFBE00?style=for-the-badge&logo=soapui&logoColor=black"/> |
+|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg' width='65' height='65'> |
 
-### 🐞 Debugging
+### Browser Testing
+| Chrome | Safari | Firefox | Edge | Opera |
+|----------|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ie10/ie10-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opera/opera-original-wordmark.svg' width='65' height='65'> |
+
+### Debugging Tools
 | Chrome DevTools | Charles Proxy |
-|----------------|---------------|
-| <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/> | <img src="https://img.shields.io/badge/Charles%20Proxy-00AEF0?style=for-the-badge&logoColor=white"/> |
+|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg' width='65' height='65'> |
 
-### 🗄️ Database
+### Database
 | SQL | MySQL | Oracle SQL |
-|-----|-------|------------|
-| <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> | <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> |
+|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg' width='65' height='65'> |
 
-### 📱 Mobile Testing
-| Android Studio | ADB | Xcode |
-|----------------|-----|-------|
-| <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> | <img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> | <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/> |
+### Mobile Testing
+| Android Studio | ADB | Xcode | iOS | Android |
+|----------|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg' width='65' height='65'> |
 
-### ⚙️ CI/CD & Version Control
+### CI/CD & Version Control
 | Jenkins | Git | GitHub |
-|---------|-----|--------|
-| <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
+|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg' width='65' height='65'> |
 
-### 🤖 AI Tools
-| Claude | Gemini | GitHub Copilot | OpenAI | GenAI |
-|--------|--------|----------------|--------|-------|
-| <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> | <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/> | <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/> | <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> | <img src="https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge&logoColor=white"/> |
+### AI Tools
+| Claude | Gemini | GitHub Copilot | OpenAI |
+|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anthropic/anthropic-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg' width='65' height='65'> |
 
-### 🌐 Browser Testing
-| Chrome | Safari | Firefox | Edge |
-|--------|--------|---------|------|
-| <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/> | <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white"/> | <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/> | <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white"/> |
+## 🌱 Currently Exploring
 
----
+- 🤖 Integrating AI tools into QA workflows for smarter test planning
+- Exploring prompt engineering for generating test cases with LLMs
+- Building GenAI evaluation frameworks for AI product testing
+- Learning about automated accessibility auditing tools
+- I hope to bridge the gap between traditional QA and AI-powered quality assurance at any time.
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aysuismayil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aysuismayil&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aysuismayil/aysuismayil/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aysuismayil/aysuismayil/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aysuismayil/aysuismayil/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
+- 🌟 Implemented and led a full Accessibility (a11y) testing program — covering WCAG 2.x, Section 508, VoiceOver, TalkBack, and NVDA screen readers.
+- 🚀 Initiated Shift-Left testing methodology within the team, improving defect detection rates in early development stages.
+- 🤖 Developed and executed a comprehensive AI coaching system test strategy — covering functional, regression, and GenAI-specific testing scenarios.
+- 🤝 Built a strong collaboration pipeline with the Customer Support team for real-world defect triage and faster resolution cycles.
+- 📋 Led QA triage meetings — aligning cross-functional stakeholders on bug priorities, release readiness, and testing coverage.
 
 ## 🌱 QA in Real Life
 
@@ -228,8 +184,6 @@ I'm passionate about quality — from writing meticulous test cases to exploring
 
 </div>
 
----
-
 ## 🗣️ Languages
 
 | Language | Flag | Level |
@@ -239,27 +193,29 @@ I'm passionate about quality — from writing meticulous test cases to exploring
 | Turkish | 🇹🇷 | Native / Bilingual |
 | English | 🇺🇸 | Full Professional |
 
----
-
 ## 📬 Get in Touch
 
-<div align="center">
+<p align="left">
+<a href="https://www.linkedin.com/in/aysu-ismayilzada-6668582a5/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
+<a href="mailto:aysu.ismayil86@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
+<a href="https://t.me/sueismayil">
+<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> &nbsp;
+<a href="https://www.reddit.com/user/AysuSue1/">
+<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a> &nbsp;
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aysu%20Ismayilzada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysu-ismayilzada-6668582a5)
-[![Email](https://img.shields.io/badge/Email-aysu.ismayil86%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aysu.ismayil86@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40sueismayil-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sueismayil)
-[![Reddit](https://img.shields.io/badge/Reddit-u%2FAysuSue1-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/AysuSue1)
+&nbsp;
 
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=aysuismayil&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
----
+&nbsp;
 
-<div align="center">
+![Snake animation](https://github.com/aysuismayil/aysuismayil/blob/output/github-contribution-grid-snake.svg)
 
-### 🙏 Thanks for stopping by!
-
-*Quality is not an act, it is a habit.* 🐞✅
-
-![Visitor Count](https://komarev.com/ghpvc/?username=aysuismayil&color=00C8FF&style=flat-square&label=Profile+Views)
-
-</div>
+&nbsp;
+&nbsp;
+<p align="center">
+Thanks for stopping by! 🚀
+</p>
