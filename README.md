@@ -1,23 +1,23 @@
 # Hi, I'm Aysu Ismayilzada! 👋
 
 <p align="center">
-<strong>Software QA Engineer & AI QA Analyst</strong>strong><br />
-Building quality at the intersection of technology and user experience.
+  <strong>Software QA Engineer & AI QA Analyst</strong>strong><br />
+    Building quality at the intersection of technology and user experience.
 </p>p>
 
 <p align="center">
-5+ years of experience testing Web and Mobile (iOS/Android) applications.<br />
-Working across the full SDLC — from test planning to release sign-off.
+  5+ years of experience testing Web and Mobile (iOS/Android) applications.<br />
+    Working across the full SDLC — from test planning to release sign-off.
 </p>p>
 
 <p align="center">
-<a href="https://github.com/aysuismayil">
-  <img src="https://img.shields.io/badge/GitHub-aysuismayil-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>a>
-  <a href="https://www.linkedin.com/in/aysuismayil">
-    <img src="https://img.shields.io/badge/LinkedIn-aysuismayil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/aysuismayil">
+        <img src="https://img.shields.io/badge/GitHub-aysuismayil-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>a>
-  <img src="https://img.shields.io/badge/Role-QA%20Engineer%20%7C%20AI%20QA-6d28d9?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Role" />
+    <a href="https://www.linkedin.com/in/aysuismayil">
+          <img src="https://img.shields.io/badge/LinkedIn-aysuismayil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>a>
+    <img src="https://img.shields.io/badge/Role-QA%20Engineer%20%7C%20AI%20QA-6d28d9?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Role" />
 </p>p>
 
 ---
@@ -46,26 +46,26 @@ I work at the intersection of quality, technology, and user experience.
                     > ## 🛠️ Tech Stack
                     >
                     > <p>
-                      <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
+                        <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
                       <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail" />
-                      <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
-                      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-                      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000" alt="Swagger" />
-                      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-                      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-                      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-                      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-                      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-                      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-                      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-                      <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-                      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-                      <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
-                      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-                      <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-                      </p>
+                        <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+                          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+                            <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000" alt="Swagger" />
+                              <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+                                <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+                                  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+                                    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+                                      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+                                        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+                                          <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+                                            <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+                                              <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+                                                <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
+                                                  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+                                                    <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+                                                    </p>
                  
-                      ---
+                                                    ---
                  
                     ## 📂 My QA Projects
                  
@@ -101,12 +101,12 @@ I work at the intersection of quality, technology, and user experience.
                                     ## 📊 GitHub Overview
                  
                                     <p align="center">
-                                    <img src="https://github-readme-stats.vercel.app/api?username=aysuismayil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="420" alt="Aysu GitHub stats" />
-                                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aysuismayil&layout=compact&langs_count=8&card_width=350&theme=vue-dark&hide_border=true" width="320" alt="Top languages" />
+                                      <img src="https://github-readme-stats.vercel.app/api?username=aysuismayil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="420" alt="Aysu GitHub stats" />
+                                        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aysuismayil&layout=compact&langs_count=8&card_width=350&theme=vue-dark&hide_border=true" width="320" alt="Top languages" />
                                     </p>p>
                  
                                     <p align="center">
-                                    <img src="https://streak-stats.demolab.com?user=aysuismayil&theme=vue-dark&hide_border=true" alt="Aysu GitHub streak" />
+                                      <img src="https://streak-stats.demolab.com?user=aysuismayil&theme=vue-dark&hide_border=true" alt="Aysu GitHub streak" />
                                     </p>p>
                  
                                     ---
@@ -114,7 +114,7 @@ I work at the intersection of quality, technology, and user experience.
                                     ## 🐍 Contribution Activity
                  
                                     <p align="center">
-                                    <img src="https://github.com/aysuismayil/aysuismayil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+                                      <img src="https://github.com/aysuismayil/aysuismayil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
                                     </p>p>
                  
                                     ---
@@ -122,7 +122,6 @@ I work at the intersection of quality, technology, and user experience.
                                     ## 🌱 QA in Real Life
                  
                                     <div align="center">
-                 
                                     <table>
                                       <tr>
                                         <td align="center" width="280">
@@ -148,9 +147,8 @@ I work at the intersection of quality, technology, and user experience.
                                         </td>td>
                                       </tr>tr>
                                     </table>table>
-                                 
-                                    </div>
+                                    </div>div>
                                       </tr>
                                     </table>
                     </p>
-</strong>
+  </strong>
