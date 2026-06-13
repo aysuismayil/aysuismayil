@@ -1,144 +1,227 @@
- Hi, I'm Aysu Ismayilzada! 👋
+# Hi, I'm Aysu Ismayilzada! 👋
 
- <div align="center"><strong>Software QA Engineer & AI QA Analyst</strong>strong><br />Building quality at the intersection of technology and user experience.</div>div>
- 
- <div align="center">5+ years of experience testing Web and Mobile (iOS/Android) applications.<br />Working across the full SDLC — from test planning to release sign-off.</div>div>
- 
- <div align="center">
-   <a href="https://github.com/aysuismayil"><img src="https://img.shields.io/badge/GitHub-aysuismayil-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>a>
-   <a href="https://www.linkedin.com/in/aysuismayil"><img src="https://img.shields.io/badge/LinkedIn-aysuismayil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>a>
-   <img src="https://img.shields.io/badge/Role-QA%20Engineer%20%7C%20AI%20QA-6d28d9?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Role" />
- </div>div>
+I'm a Software QA Engineer & AI QA Analyst with 5+ years of experience testing Web and Mobile (iOS/Android) applications.
 
- ---
+I work at the intersection of quality, technology, and user experience.
 
- ## 🚀 About Me
+I have experience creating test plans, test cases, and test strategies, and performing various types of testing across the full SDLC.
 
- I'm a Software QA Engineer & AI QA Analyst with 5+ years of experience testing Web and Mobile (iOS/Android) applications.
+Currently, I'm involved in testing both UI and backend for a caregiving marketplace platform available on Web, iOS, and Android.
 
- I work at the intersection of quality, technology, and user experience.
+> 🐞 *"I find bugs before your users do."*
 
- - 🧪 5+ years Manual QA — Web & Mobile (iOS/Android)
- - - 🔌 API Testing with Postman & Swagger
-   - - ♿ Accessibility Testing — WCAG 2.x, 508, VoiceOver, TalkBack, NVDA
-     - - 🗄️ Database validation with SQL queries
-       - - ⚙️ CI/CD experience with Jenkins & GitHub Actions
-         - - 🤖 AI & GenAI QA testing — Claude, OpenAI, Gemini
-           - - 📌 Functional, Regression, Smoke, Sanity, E2E, UAT Testing
-             - - 📌 Mobile Testing with Android Studio, ADB & Xcode
-               - - 📌 Debugging with Chrome DevTools & Charles Proxy
-                 - - 🌱 Currently exploring: AI tools for QA workflows & automation
-                  
-                   - > 🐞 *"I find bugs before your users do."*
-                     >
-                     > ---
-                     >
-                     > ## 🛠️ Tech Stack
-                     >
-                     > <div>
-                       <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
-                       <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail" />
-                       <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
-                       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-                       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000" alt="Swagger" />
-                       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-                       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-                       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-                       <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-                       <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-                       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-                       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-                       <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-                       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-                       <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
-                       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-                       <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-                       </div>
-                  
-                       ---
-                  
-                     ## 📂 My QA Projects
-                  
-                     | Project | What It Covers |
-                     | --- | --- |
-                     | [QA Learning Notes](https://github.com/aysuismayil/qa-learning-notes) | Personal notes and study materials covering QA fundamentals, testing types, and best practices |
-                     | [ISTQB Preparation](https://github.com/aysuismayil/istqb-preparation) | Study guides, practice questions, and resources for ISTQB Foundation Level certification |
-                     | [QA Bug Reports](https://github.com/aysuismayil/qa-bug-reports) | Sample bug reports written in professional format with severity, steps to reproduce, and expected vs actual results |
-                     | [QA Test Cases](https://github.com/aysuismayil/qa-test-cases) | Real-world test case examples covering functional, regression, and exploratory testing scenarios |
-                  
-                     ---
-                  
-                     ## 🌱 Currently Exploring
-                  
-                     - 🤖 Integrating AI tools into QA workflows for smarter test planning
-                     - - Exploring prompt engineering for generating test cases with LLMs
-                       - - Building GenAI evaluation frameworks for AI product testing
-                         - - Learning about automated accessibility auditing tools
-                           - - I hope to bridge the gap between traditional QA and AI-powered quality assurance at any time.
-                            
-                             - ---
-                  
-                             ## 🏆 Achievements
-                  
-                             - 🌟 Implemented and led a full Accessibility (a11y) testing program — covering WCAG 2.x, Section 508, VoiceOver, TalkBack, and NVDA screen readers.
-                             - - 🚀 Initiated Shift-Left testing methodology within the team, improving defect detection rates in early development stages.
-                               - - 🤖 Developed and executed a comprehensive AI coaching system test strategy — covering functional, regression, and GenAI-specific testing scenarios.
-                                 - - 🤝 Built a strong collaboration pipeline with the Customer Support team for real-world defect triage and faster resolution cycles.
-                                   - - 📋 Led QA triage meetings — aligning cross-functional stakeholders on bug priorities, release readiness, and testing coverage.
-                                    
-                                     - ---
-                  
-                                     ## 📊 GitHub Overview
-                  
-                                     <div align="center">
-                                     <img src="https://github-readme-stats.vercel.app/api?username=aysuismayil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="420" alt="Aysu GitHub stats" />
-                                     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aysuismayil&layout=compact&langs_count=8&card_width=350&theme=vue-dark&hide_border=true" width="320" alt="Top languages" />
-                                     </div>div>
-                  
-                                     <div align="center">
-                                     <img src="https://streak-stats.demolab.com?user=aysuismayil&theme=vue-dark&hide_border=true" alt="Aysu GitHub streak" />
-                                     </div>div>
-                  
-                                     ---
-                  
-                                     ## 🐍 Contribution Activity
-                  
-                                     <div align="center">
-                                     <img src="https://github.com/aysuismayil/aysuismayil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-                                     </div>div>
-                  
-                                     ---
-                  
-                                     ## 🌱 QA in Real Life
-                  
-                                     <div align="center">
-                                     <table>
-                                       <tr>
-                                         <td align="center" width="280">
-                                           <h4>♠️ A♠</h4>h4>
-                                           <br/>
-                                           <code>SELECT happiness FROM life<br/>WHERE you = present;</code>code>
-                                           <br/><br/>
-                                           <sub>🃏 <em>The Mindfulness Query</em>em></sub>sub>
-                                         </td>td>
-                                         <td align="center" width="280">
-                                           <h4>♥️ A♥</h4>h4>
-                                           <br/>
-                                           <code>DELETE FROM worries<br/>WHERE date = today;</code>code>
-                                           <br/><br/>
-                                           <sub>🃏 <em>The Daily Cleanup</em>em></sub>sub>
-                                         </td>td>
-                                         <td align="center" width="280">
-                                           <h4>♦️ A♦</h4>h4>
-                                           <br/>
-                                           <em>My heart runs on coffee<br/>and SQL queries.</em>em> ☕
-                                           <br/><br/>
-                                           <sub>🃏 <em>The Engineer's Fuel</em>em></sub>sub>
-                                         </td>td>
-                                       </tr>tr>
-                                     </table>table>
-                                     </div>div>
-                                       </tr>
-                                     </table>
-                     </div>
- </strong>
+![Aysu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aysuismayil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🧪 5+ years Manual QA — Web & Mobile (iOS/Android)
+- 🔌 API Testing with Postman & Swagger
+- ♿ Accessibility Testing — WCAG 2.x, 508, VoiceOver, TalkBack, NVDA
+- 🗄️ Database validation with SQL queries
+- ⚙️ CI/CD experience with Jenkins & GitHub Actions
+- 🤖 AI & GenAI QA testing — Claude, OpenAI, Gemini
+- 📌 Functional, Regression, Smoke, Sanity, E2E, UAT Testing
+- 📌 Mobile Testing with Android Studio, ADB & Xcode
+- 📌 Debugging with Chrome DevTools & Charles Proxy
+- 🌱 Currently exploring: AI tools for QA workflows & automation
+
+## Tech Stack
+
+### Testing & TMS
+| JIRA | TestRail | Zephyr | Confluence | Figma |
+|----------|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg' width='65' height='65'> |
+
+### API Testing
+| Postman | Swagger | REST API | SOAPUI |
+|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg' width='65' height='65'> |
+
+### Browser Testing
+| Chrome | Safari | Firefox | Edge | Opera |
+|----------|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ie10/ie10-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opera/opera-original-wordmark.svg' width='65' height='65'> |
+
+### Debugging Tools
+| Chrome DevTools | Charles Proxy |
+|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg' width='65' height='65'> |
+
+### Database
+| SQL | MySQL | Oracle SQL |
+|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg' width='65' height='65'> |
+
+### Mobile Testing
+| Android Studio | ADB | Xcode | iOS | Android |
+|----------|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg' width='65' height='65'> |
+
+### CI/CD & Version Control
+| Jenkins | Git | GitHub |
+|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg' width='65' height='65'> |
+
+### AI Tools
+| Claude | Gemini | GitHub Copilot | OpenAI |
+|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anthropic/anthropic-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg' width='65' height='65'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg' width='65' height='65'> |
+
+## 🌱 Currently Exploring
+
+- 🤖 Integrating AI tools into QA workflows for smarter test planning
+- Exploring prompt engineering for generating test cases with LLMs
+- Building GenAI evaluation frameworks for AI product testing
+- Learning about automated accessibility auditing tools
+- I hope to bridge the gap between traditional QA and AI-powered quality assurance at any time.
+
+## 🏆 Achievements
+
+- 🌟 Implemented and led a full Accessibility (a11y) testing program — covering WCAG 2.x, Section 508, VoiceOver, TalkBack, and NVDA screen readers.
+- 🚀 Initiated Shift-Left testing methodology within the team, improving defect detection rates in early development stages.
+- 🤖 Developed and executed a comprehensive AI coaching system test strategy — covering functional, regression, and GenAI-specific testing scenarios.
+- 🤝 Built a strong collaboration pipeline with the Customer Support team for real-world defect triage and faster resolution cycles.
+- 📋 Led QA triage meetings — aligning cross-functional stakeholders on bug priorities, release readiness, and testing coverage.
+
+## 🌱 QA in Real Life
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="280">
+      <h4>♠️ A♠</h4>
+      <br/>
+      <code>SELECT happiness FROM life<br/>WHERE you = present;</code>
+      <br/><br/>
+      <sub>🃏 <em>The Mindfulness Query</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♥️ A♥</h4>
+      <br/>
+      <code>DELETE FROM worries<br/>WHERE date = today;</code>
+      <br/><br/>
+      <sub>🃏 <em>The Daily Cleanup</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♦️ A♦</h4>
+      <br/>
+      <em>My heart runs on coffee<br/>and SQL queries.</em> ☕
+      <br/><br/>
+      <sub>🃏 <em>The Engineer's Fuel</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="280">
+      <h4>♣️ A♣</h4>
+      <br/>
+      <code>SELECT * FROM bugs<br/>WHERE fixed = false;</code>
+      <br/>
+      <em>— my daily morning routine.</em>
+      <br/><br/>
+      <sub>🃏 <em>The Morning Standup</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♠️ K♠</h4>
+      <br/>
+      <code>INSERT INTO day (mood)<br/>VALUES ('ready to find bugs');</code>
+      <br/><br/>
+      <sub>🃏 <em>The Monday Mindset</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♥️ K♥</h4>
+      <br/>
+      <em>Life has no <code>ROLLBACK</code>.<br/>Test everything before you commit.</em>
+      <br/><br/>
+      <sub>🃏 <em>The Life Principle</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="280">
+      <h4>♦️ K♦</h4>
+      <br/>
+      <code>DROP TABLE stress;</code>
+      <br/>
+      <em>— if only it were that easy.</em>
+      <br/><br/>
+      <sub>🃏 <em>The Wishful Query</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♣️ K♣</h4>
+      <br/>
+      <em>My code is like my coffee —<br/>strong and full of<br/>unexpected behavior.</em>
+      <br/><br/>
+      <sub>🃏 <em>The Debugging Truth</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♠️ Q♠</h4>
+      <br/>
+      <em>You are not a bug.<br/>Your errors are features<br/>waiting to compile.</em> ✨
+      <br/><br/>
+      <sub>🃏 <em>The Pep Talk</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="280">
+      <h4>♥️ Q♥</h4>
+      <br/>
+      <code>if (happy) { }</code>
+      <br/>
+      <em>— That's my favorite logic.</em>
+      <br/><br/>
+      <sub>🃏 <em>The Purest Condition</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♦️ Q♦</h4>
+      <br/>
+      <em>We didn't break up.<br/>Our connection timed out.</em> 🔌
+      <br/><br/>
+      <sub>🃏 <em>The 408 Heartbreak</em></sub>
+    </td>
+    <td align="center" width="280">
+      <h4>♣️ Q♣</h4>
+      <br/>
+      <em>You are not a variable —<br/>nobody can replace<br/>your value.</em> 💙
+      <br/><br/>
+      <sub>🃏 <em>The Constant Truth</em></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+## 🗣️ Languages
+
+| Language | Flag | Level |
+|----------|------|-------|
+| Azerbaijani | 🇦🇿 | Native |
+| Russian | 🇷🇺 | Native |
+| Turkish | 🇹🇷 | Native / Bilingual |
+| English | 🇺🇸 | Full Professional |
+
+## 📬 Get in Touch
+
+<p align="left">
+<a href="https://www.linkedin.com/in/aysu-ismayilzada-6668582a5/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
+<a href="mailto:aysu.ismayil86@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
+<a href="https://t.me/sueismayil">
+<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> &nbsp;
+<a href="https://www.reddit.com/user/AysuSue1/">
+<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a> &nbsp;
+</p>
+
+&nbsp;
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aysuismayil&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+
+&nbsp;
+
+![Snake animation](https://github.com/aysuismayil/aysuismayil/blob/output/github-contribution-grid-snake.svg)
+
+&nbsp;
+&nbsp;
+<p align="center">
+Thanks for stopping by! 🚀
+</p>
