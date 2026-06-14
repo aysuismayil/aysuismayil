@@ -24,6 +24,11 @@ Currently, I'm involved in testing both UI and backend for a caregiving marketpl
 - 📌 Mobile Testing with Android Studio, ADB & Xcode
 - 📌 Debugging with Chrome DevTools & Charles Proxy
 - 🌱 Currently exploring: AI tools for QA workflows & automation
+- 📝 I write in depth on my website about myself [aysuismayil.github.io](https://aysuismayil.github.io/)
+
+
+## My Articles
+- [Personal Portfolio with my Skills](https://aysuismayil.github.io/)
 
 ## Tech Stack
 
