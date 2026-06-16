@@ -1,12 +1,8 @@
-# Hi, I'm Aysu Ismayilzada! 👋
+# Aysu Ismayilzada
 
-I'm a Software QA Engineer & AI QA Analyst with 5+ years of experience testing Web and Mobile (iOS/Android) applications.
+Software QA Engineer & AI QA Analyst with 5+ years of experience in Web and Mobile (iOS/Android) application testing.
 
-I work at the intersection of quality, technology, and user experience.
-
-I have experience creating test plans, test cases, and test strategies, and performing various types of testing across the full SDLC.
-
-Currently, I'm involved in testing both UI and backend for a caregiving marketplace platform available on Web, iOS, and Android.
+Proficient in Agile and Scrum methodologies, applying a Shift Left approach to build quality in from the start — not at the end.
 
 > 🐞 *"I find bugs before your users do."*
 
