@@ -6,8 +6,6 @@ Proficient in Agile and Scrum methodologies, applying a Shift Left approach to b
 
 > 🐞 *"I find bugs before your users do."*
 
-![Aysu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aysuismayil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🧪 5+ years Manual QA — Web & Mobile (iOS/Android)
