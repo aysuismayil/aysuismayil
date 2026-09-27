@@ -20,6 +20,15 @@ Proficient in Agile and Scrum methodologies, applying a Shift Left approach to b
 - 🌱 Currently exploring: AI tools for QA workflows & automation
 - 📝 I write in depth on my website about myself [aysuismayil.github.io](https://aysuismayil.github.io/)
 
+## 🧪 Featured QA Projects
+
+These two repositories are my primary, most complete QA work — start here:
+
+- **[Mobile-Nutrition-App-QA](https://github.com/aysuismayil/Mobile-Nutrition-App-QA)** — real, ongoing hands-on mobile QA: requirements review, exploratory testing, 4 filed defects, regression test cases, and a full Test Plan / Test Strategy / Testing Approach written from that work.
+- **[careconnect-qa-platform](https://github.com/aysuismayil/careconnect-qa-platform)** — full-cycle QA on a two-sided marketplace app: requirements review with worked examples, ~90 structured test cases, API/DB/accessibility testing, and 6 detailed bug reports.
+
+Also see **[testmind-ai](https://github.com/aysuismayil/testmind-ai)** — a smaller QA-tooling project (AI-assisted QA documentation, built with Next.js/TypeScript/Jest/CI).
+
 
 ## My Articles
 - [Personal Portfolio with my Skills](https://aysuismayil.github.io/)
